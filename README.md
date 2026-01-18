@@ -1,43 +1,43 @@
-### Hi there! I'm Serdar Annayev 👋
+👋 Merhaba! Ben Serdar Annayev 
 
-I am a **Computer Programming** student at **Recep Tayyip Erdoğan University** [1], bridging the gap between hardware and software. With a background in **Electrical-Electronics & Panel Design** [2], I have a strong foundation in system logic, which I now apply to full-stack development.
+Ben Recep Tayyip Erdoğan Üniversitesi'nde Bilgisayar Programcılığı öğrencisiyim. Elektrik-Elektronik geçmişimden gelen donanım bilgimi, yazılım dünyasının dinamikleriyle birleştirerek "Full Stack" projeler geliştiriyorum.
 
-My experience ranges from industrial automation documentation at **Sütrak Klima** [3] to leading a **TÜBİTAK** project focused on environmental awareness [4]. Currently, I am focused on building scalable backend systems and e-commerce solutions.
-
----
-
-### 🚀 What I'm Currently Working On
-
-I am actively developing two major projects that solve real-world problems:
-
-* **Social Media & Account Sharing Platform:**
-    * Building a scalable backend using **NestJS**.
-    * Designing a secure architecture for user account sharing and content management.
-    * Focusing on JWT authentication and optimized database queries.
-
-* **Custom PC Building Service (E-Commerce):**
-    * A full-stack web application connecting users with their ideal computer setups.
-    * **The Logic:** Users input their budget and requirements (New vs. 2nd Hand). The system facilitates the request, payment, and logistics tracking.
-    * Integrating payment gateways and an inventory management system.
+Sütrak Klima A.Ş.'de edindiğim endüstriyel disiplin ve TÜBİTAK projemde kazandığım takım liderliği deneyimi, sadece kod yazan değil, proje süreçlerini yönetebilen bir geliştirici olmamı sağladı. Şu anda ölçeklenebilir backend mimarileri ve e-ticaret çözümleri üzerine odaklanmış durumdayım.
 
 ---
 
-### 🛠 Tools & Technologies
+👨🏽‍💻 Aktif Olarak Üzerinde Çalıştıklarım
 
-Based on my academic background and projects, here is my technical stack:
+Gerçek hayat problemlerine çözüm üreten iki ana proje üzerinde çalışıyorum:
 
-* **Languages:** JavaScript, Python, C#, Java, Kotlin [5].
-* **Backend & Database:** NestJS, Node.js, SQL, MongoDB [5].
-* **Frontend:** HTML, CSS, Bootstrap [5].
-* **Game & Design:** Unity, Visual Studio [5].
-* **Soft Skills:** Algorithmic Thinking, Problem Solving, Team Leadership (TÜBİTAK experience) [6].
+* ⭐Sosyal Medya ve Hesap Paylaşım Platformu:
+    * **NestJS** kullanarak ölçeklenebilir ve güvenli bir backend mimarisi inşa ediyorum.
+    * Kullanıcı hesap paylaşımı ve içerik yönetimi için güvenli bir yapı tasarlıyorum.
+    * JWT kimlik doğrulama (Auth) ve optimize edilmiş veritabanı sorguları üzerinde çalışıyorum.
+
+* ⭐Özel PC Toplama Hizmeti:
+    * Kullanıcıların bütçelerine en uygun bilgisayar sistemlerine ulaşmasını sağlayan Full Stack bir web uygulaması.
+    * **İşleyiş Mantığı:** Kullanıcı bütçesini ve tercihini belirtir; sistemimiz talebi alır, ödeme ve lojistik süreçlerini yöneterek ürünü kullanıcıya ulaştırılır.
+    * Ödeme sistemleri entegrasyonu ve stok/envanter takibi özelliklerini geliştiriyorum.
 
 ---
 
-### 📫 How to Reach Me
+💻⚙️ Kullandığım Araçlar ve Teknolojiler
 
-I am always open to discussing new projects, backend architecture, or hardware integration.
+Eğitim geçmişim ve projelerimde kullandığım teknoloji yığınım (Tech Stack):
 
-* **Email:** annayevserdar8@gmail.com [7]
-* **LinkedIn:** [Linkedin Profil Linkini Buraya Yapıştır]
-* **Location:** Istanbul, Turkey [7]
+* **Diller:** JavaScript, Python, C#, Java, Kotlin.
+* **Backend & Veritabanı:** NestJS, Node.js, SQL, MongoDB, PostreSQL, Prisma .
+* **Frontend:** HTML, CSS, Bootstrap, TypeScript, React.
+* **Oyun & Tasarım:** Unity, Visual Studio.
+* **Yetenekler:** Algoritmik Düşünme, Problem Çözme, Takım Liderliği.
+
+---
+
+📱 Bana Nasıl Ulaşabilirsiniz?
+
+Yeni projeler, backend mimarisi veya donanım entegrasyonu konularında konuşmak için her zaman bana ulaşabilirsiniz.
+
+* **E-posta:** annayevserdar8@gmail.com
+* **LinkedIn:** www.linkedin.com/in/serdar-annayev-507715168
+* **Konum:** İstanbul, Türkiye
